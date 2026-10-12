@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Studio XIAO ESP32-S3 Sense](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) | Supporting both Wi-Fi and BLE wireless connectivities. It integrates built-in camera sensor, digital microphone.  Audio detection and Camera for the AI assistant (stary) | 1 | $13.99 | $13.99 | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) |
 | **Parts subtotal** | — | — | — | **$13.99** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.99** | — |
+| **Tax & shipping** | — | — | — | **$13.99** | — |
+| **Total** | — | — | — | **$27.98** | — |
 
-$51.01 left of the tier's funding.
+$37.02 left of the tier's funding.
