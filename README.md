@@ -19,13 +19,14 @@ This is my final Stary design!
 
 ### 📋 Bill of Materials (BOM)
 
-| Reference | Qty | Value | Description |Link
+| Reference | Qty | Value | Description |
 | :--- | :---: | :--- | :--- |
 | J1 | 1 | LiPo 3.7V | Battery Connector |
 | J2 | 1 | LCD GC9A01 2.1IN | Round LCD Display |
 | J3 | 1 | MAX98357A AUDIO | I2S Audio Amplifier |
 | SW1 | 1 | SW Push | Momentary Push Button |
 | U1 | 1 | XIAO-ESP32-S3-SMD | Microcontroller Board |
+
 
 
 
