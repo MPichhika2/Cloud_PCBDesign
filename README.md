@@ -19,10 +19,10 @@ This is my final Stary design!
 
 ### 📋 Bill of Materials (BOM)
 
-| Reference | Qty | Value | Description |
+| Reference | Qty | Value | Description |Link
 | :--- | :---: | :--- | :--- |
-| J1 | 1 | LiPo 3.7V | Battery Connector |
-| J2 | 1 | LCD GC9A01 2.1IN | Round LCD Display |
-| J3 | 1 | MAX98357A AUDIO | I2S Audio Amplifier |
-| SW1 | 1 | SW Push | Momentary Push Button |
-| U1 | 1 | XIAO-ESP32-S3-SMD | Microcontroller Board |
+| J1 | 1 | LiPo 3.7V | Battery Connector |https://www.amazon.com/JLJLUP-Rechargeable-Integrated-Protection-Development/dp/B0FH9XHXRT/ref=sr_1_1_sspa?crid=1ZFPTSMA4R4VS&dib=eyJ2IjoiMSJ9.li4cggKoqEX1SCSDpXCjx5rcFOkZCffsMpN0MZvvsb-3ts514JaD77b9Zi0EoE2yvqWQQho6XYXZFpXVU01_6DGqK17vN5Z8FfuaJuQFyrumgg5MBa_YGPVEs4JH-amadvfSivi-WXWeFsumB_FD1lDSzuhinzHSJvADKcDifkW4G4adNW5mFZstXtEkIi1csCe7JqPzCbmqA16msmUSZQWdUL0mZaU-c17hyT1By5HbN10kOAZ3ndsB4pG1EU99eW3xAJllsy_c1jy_87fAJLbL3LeosiFYIYiWEbcxx-s.wyrMGXUMYZBJfQJD3PuQXGeb1in74XmtxEOdm40uDCM&dib_tag=se&keywords=lipo+battery&qid=1792773489&sprefix=lipo+battery%2Caps%2C141&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+| J2 | 1 | LCD GC9A01 2.1IN | Round LCD Display | https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+| J3 | 1 | MAX98357A AUDIO | I2S Audio Amplifier |https://www.adafruit.com/product/3006?srsltid=AU7gw4XkQBUtkr-MiJQN6yo5ufW_RndERFHiWExqMsFZ_fTOXYAt0ue0
+| SW1 | 1 | SW Push | Momentary Push Button |(I ONLY NEEED ONE PIECE BUT NO ONE SELLS THAT. IS THERE AN ANOTHER WAY?) https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/ref=sr_1_6?dib=eyJ2IjoiMSJ9.0H9GGs7qKjJ-EE5XDHapeq6keJD7doZZEm6qtEyq8T7-KaPERURoCLBFP1qOYl6YLds8TJOgMgvnXL3f1NBFE67etRNuZ9ImayEXy_1lNtqVa3t7NKQq6WhjyP7mmnWYqX3rdJgLken45dYqB4j0SRmClKEQnKvHoAArC_6PD0Mdp0Vdl72WsIPQcEg8eEw557fQPyhu0oF4hBfRM7IZeCpzchp5PWkb25Zsunbi-rU.QXzTg7w_MsQd-DoV5N1WCv5esSvixRuEVVS-i6S7Ask&dib_tag=se&keywords=tactile%2Bpush%2Bbutton%2Bswitch&qid=1791770041&sr=8-6&th=1
+| U1 | 1 | XIAO-ESP32-S3-SMD | Microcontroller Board |https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
