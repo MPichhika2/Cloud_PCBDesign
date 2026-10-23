@@ -16,3 +16,13 @@ Finally I waas able to place all the parts so I can view them in the 3d view to 
 <img width="1523" height="900" alt="star2" src="https://github.com/user-attachments/assets/a2878be4-64f2-4e7f-97ca-356d5eb7bb85" />
 
 This is my final Stary design! 
+
+### 📋 Bill of Materials (BOM)
+
+| Reference | Qty | Value | Description |
+| :--- | :---: | :--- | :--- |
+| J1 | 1 | LiPo 3.7V | Battery Connector |
+| J2 | 1 | LCD GC9A01 2.1IN | Round LCD Display |
+| J3 | 1 | MAX98357A AUDIO | I2S Audio Amplifier |
+| SW1 | 1 | SW Push | Momentary Push Button |
+| U1 | 1 | XIAO-ESP32-S3-SMD | Microcontroller Board |
