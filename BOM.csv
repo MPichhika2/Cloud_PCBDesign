@@ -1,6 +1,9 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
-"J1","1","LiPo_3.7V","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal",""
-"J2","1","LCD_GC9B72_2.1IN","","","","","${EXCLUDE_FROM_POS_FILES}","Connector_PinSocket_2.54mm:PinSocket_1x10_P2.54mm_Vertical",""
-"J3","1","MAX98357A_AUDIO","","","","","${EXCLUDE_FROM_POS_FILES}","Stary_Custom:Adafruit_MAX98357A_Breakout",""
-"SW1","1","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","Button_Switch_SMD:SW_SPST_TL3305A",""
-"U1","1","XIAO-ESP32-S3-SMD","","","","","${EXCLUDE_FROM_POS_FILES}","Seeed_Studio_XIAO_Series:XIAO-ESP32-S3-SMD",""
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Seeed Studio XIAO ESP32-S3 Sense,1,Seeed Studio,$13.99,$13.99,https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html
+2.1 Inch Round LCD screen,1,Aliexpress,$6.25,$6.25,https://www.aliexpress.us/item/3256812386767481.html
+Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A,1,Adafruit,$5.95,$5.95,https://www.adafruit.com/product/3006?srsltid=AU7gw4XkQBUtkr-MiJQN6yo5ufW_RndERFHiWExqMsFZ_fTOXYAt0ue0
+MOB,1,Amazon,$2.00,$2.00,https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/ref=sr_1_6?dib=eyJ2IjoiMSJ9.0H9GGs7qKjJ-EE5XDHapeq6keJD7doZZEm6qtEyq8T7-KaPERURoCLBFP1qOYl6YLds8TJOgMgvnXL3f1NBFE67etRNuZ9ImayEXy_1lNtqVa3t7NKQq6WhjyP7mmnWYqX3rdJgLken45dYqB4j0SRmClKEQnKvHoAArC_6PD0Mdp0Vdl72WsIPQcEg8eEw557fQPyhu0oF4hBfRM7IZeCpzchp5PWkb25Zsunbi-rU.QXzTg7w_MsQd-DoV5N1WCv5esSvixRuEVVS-i6S7Ask&dib_tag=se&keywords=tactile%2Bpush%2Bbutton%2Bswitch&qid=1791770041&sr=8-6&th=1
+Stary_PCB,1,JLCPCB,$10.00,$10.00,https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006
+"Mini 8 speaker, 1 W",1,Amazon,$1.74,$1.74,https://www.amazon.com/gp/product/B0D7S8FFKY/ref=sw_img_1?smid=A2OEGRG2ZM4R5C&th=1
+Resin case Star,1,Formnow,$19.54,$19.54,https://now.formlabs.com/shared/01M4Q265X2SQ4R2SCHEDYVKANR
+Estimated total shipping,1,,,$5.25,

@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T02:53:12.349Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuxc42mu009701p9hxhuuyzb). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > I want to make a cloud shape assitant. This features a screen which displays different emotions, and I want to add more features as I go.
 
@@ -25,25 +25,25 @@
 
 **4.7h**
 
-![Image14](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/45b630f74d8af85bdd6df856efee0175abc9344e086287ee8f19d898c4f647aa.png)
+![Image14](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/45b630f74d8af85bdd6df856efee0175abc9344e086287ee8f19d898c4f647aa.png)
 
-![Image13](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/92547f18c93805e0dcc3a6eff7afe8ee6ffe4c6b81b979a7e675fd02d3dba032.png)
+![Image13](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/92547f18c93805e0dcc3a6eff7afe8ee6ffe4c6b81b979a7e675fd02d3dba032.png)
 
-![Image12](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/66ea30cfc19843f21181e34aaac2f8b78365d4063a669e342ff349b7398011a1.png)
+![Image12](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/66ea30cfc19843f21181e34aaac2f8b78365d4063a669e342ff349b7398011a1.png)
 
-![Image11](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/23fbad4fce4c0104b9d04c104b4ea153624ee50daffd1bcafb3201038d42df3a.png)
+![Image11](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/23fbad4fce4c0104b9d04c104b4ea153624ee50daffd1bcafb3201038d42df3a.png)
 
-![Image10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/b0f2934d0a80dd9256a7ca832b2c8e082bfcd951e4ba87fd90170dafe0dcf97d.png)
+![Image10](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/b0f2934d0a80dd9256a7ca832b2c8e082bfcd951e4ba87fd90170dafe0dcf97d.png)
 
-![Image9](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/789645a1dab469ae4088d4a7b2457db413e65a97b06f7bbdfe0a828e652ac0a6.png)
+![Image9](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/789645a1dab469ae4088d4a7b2457db413e65a97b06f7bbdfe0a828e652ac0a6.png)
 
-![Image 8](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/824d07fb688c46779747b023dc37cad5c916acdd37854e88aed1513bc22e60f8.png)
+![Image 8](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/824d07fb688c46779747b023dc37cad5c916acdd37854e88aed1513bc22e60f8.png)
 
-![image7](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/af6937a60d3cdfd8f56b7427eb454107d74cc5ba5ecfef3a6bba4033fe262b34.png)
+![image7](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/af6937a60d3cdfd8f56b7427eb454107d74cc5ba5ecfef3a6bba4033fe262b34.png)
 
-![Image6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/e5b0b407d48b3da1d6ee53f1e635dffd150b4f38706bb54bb7020e3cba67034a.png)
+![Image6](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/e5b0b407d48b3da1d6ee53f1e635dffd150b4f38706bb54bb7020e3cba67034a.png)
 
-![Image5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/9767aaef105364f5373caa4b80b3c0dc319bbde048577f7a505adf11f7c5443d.png)
+![Image5](https://halflife.hackclub-assets.com/sessions/7KMaHxhoLiEzridicJTEVhtLSLXMhKzH/9767aaef105364f5373caa4b80b3c0dc319bbde048577f7a505adf11f7c5443d.png)
 
 ---
 title: "Stary_PCB"
